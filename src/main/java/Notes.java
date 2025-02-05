@@ -33,7 +33,7 @@ class Notes {
 
 		// \n - newline character
 		System.out.println("Hello\nHello");
-		// \t - tab
+		// \t - tab\\
 		// \" - changes from being a string ending delimiter to a normal character
 		// \\ - change the escape character to a normal backlash character
 
@@ -84,5 +84,7 @@ class Notes {
 		System.out.println(++num); //the increase happens BEFORE the rest of the code runs
 	
 		System.out.println(10%3); //Remainder of 1
+
+		
 	}
 }
